@@ -11,4 +11,5 @@ Toolun içindeki araçlar githubda güncel ve stabil çalışan araçları sizle
 WARNING
 ===============
 - Tool ile yaptığınız saldırılar ya da olumsuz sonuçların sorumluluğu bana ait değildir
+
 Bol hackli günler dilerim :)
