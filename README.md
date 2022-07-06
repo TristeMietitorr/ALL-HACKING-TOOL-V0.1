@@ -5,7 +5,7 @@ by TristeMietitore
 Tool Hakkında 
 ==================
 Bu Tool TristeMietitore tarafından yapılmıştır.
-Toolun içindeki araçlar githubda güncel ve stabil çalışan araçları sizlere \nsunduk sizin de bildiğiniz varsa bana DM den yazarak tool önerebilirsiniz.
+Toolun içindeki araçlar githubda güncel ve stabil çalışan araçları sizlere sunduk sizin de bildiğiniz varsa bana DM den yazarak tool önerebilirsiniz.
 
 WARNING
 ===============
