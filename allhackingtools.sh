@@ -2,7 +2,7 @@ clear
 printf "================================
 ALL HACKING TOOL V0.1 
 ================================\n\n"
-printf "by TristeMietitore" 
+printf "\rby TristeMietitore" 
 printf "\n\n1-Userrecon"
 printf "\n2-Turkscout"
 printf "\n3-Zphisher"
