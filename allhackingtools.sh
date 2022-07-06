@@ -13,7 +13,7 @@ menu () {
 
 read -p $'\n[*]Tool seçiminizi yapın: ' tools
 if [ $tools == 3 ]; then
-cd tools/zphisher
+cd tools/Zphisher
 bash zphisher.sh
 
 elif [ $tools == 5 ]; then
@@ -21,12 +21,12 @@ cd tools/about
 bash about.sh
 
 elif [ $tools == 1 ]; then 
-cd tools/userrecon
+cd tools/Userrecon
 chmod +x userrecon.sh
 bash userrecon.sh
 
 elif [ $tools == 4 ]; then
-cd tools/MapEye 
+cd tools/mapeye 
 python3 mapeye.py
 python3 mapeye.py -t manual
 
